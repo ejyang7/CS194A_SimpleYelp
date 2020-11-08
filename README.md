@@ -4,7 +4,7 @@
 
 **Yelp clone** displays a list of search results from the Yelp API and displays the results in a scrollable list. 
 
-Time spent: 3 hours spent in total
+Time spent: 4 hours spent in total
 
 ## Functionality 
 
@@ -21,7 +21,7 @@ The following **extensions** are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://j.gifs.com/OM4pXp.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://gifs.com/gif/cs194a-yelpclone-OM4pXp' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with gifs.com.
 
