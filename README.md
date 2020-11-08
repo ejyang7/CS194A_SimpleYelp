@@ -19,7 +19,7 @@ The following **extensions** are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of the implemented app:
 
 <img src='https://media.giphy.com/media/V5YbrD4yXsemlYKJNY/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
