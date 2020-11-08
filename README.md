@@ -21,7 +21,7 @@ The following **extensions** are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://gifs.com/gif/cs194a-yelpclone-OM4pXp' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://j.gifs.com/OM4pXp.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with gifs.com.
 
