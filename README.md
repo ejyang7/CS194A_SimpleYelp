@@ -21,7 +21,7 @@ The following **extensions** are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://gph.is/g/4ARjqjD' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/V5YbrD4yXsemlYKJNY/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with giphy.com.
 
